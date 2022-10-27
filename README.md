@@ -4,7 +4,8 @@ a bash script that prints the weather summary of the divisions of Bangladesh
 make executable first
 ```chmod +x weatherBD.sh```
 
-###usage
+### usage
+
 for a specific division
 ```sh
 DIVISION="dhaka" ./weatherBD.sh 
